@@ -1,4 +1,7 @@
 1. Kostya Scvortsov
+
+![photo](tnd.png)
+
 2. [telegram](https://t.me/kostenus),discord kosten#3179
 3. I am interested in programming because it is interesting and fascinating.
 I have set myself a goal and I will successfully achieve it
