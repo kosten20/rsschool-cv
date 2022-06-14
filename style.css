@@ -1,0 +1,75 @@
+body {
+  margin: 0px 5%;
+  background: url("https://drive.google.com/uc?export=view&id=1bTXCsZlPY1eum8yda9Th5BxJey4Hsczx");
+  font-family: sans-seri;
+  font-weight: 500;
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 2rem;
+}
+p,
+li,
+code {
+  font-size: 1rem;
+}
+time {
+  font-size:2rem;
+}
+a {
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 40px 0px;
+  box-shadow: 0px 0px 30px black;
+  padding: 20px;
+  background: #fff;
+  border-radius: 20px;
+}
+.header_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px;
+}
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#logo_telegram {
+  width: 50px;
+  height: 50px;
+}
+#logo_discord {
+  width: 50px;
+  height: 50px;
+}
+footer {
+  display: flex;
+  justify-content: space-evenly;
+}
+#logo_github {
+  width: 70px;
+  border-radius: 50%;
+}
+#logo_rs_school {
+  width: 100px;
+}
